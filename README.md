@@ -3,7 +3,7 @@
 
 - I’m currently learning **Web Development**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://discord.com/users/979336550976462848</h3>
 <p align="left">
 </p>
 
