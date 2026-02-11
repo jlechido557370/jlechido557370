@@ -12,8 +12,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💬 Discord: `jlechido#xxxx`  
-  (Better to avoid direct raw Discord link — looks cleaner)
+- 💬 Discord: `(https://discord.com/users/979336550976462848)`  
 
 ---
 
@@ -25,7 +24,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlechido557370&show_icons=true&theme=tokyonight)
-
