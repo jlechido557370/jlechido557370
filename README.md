@@ -2,7 +2,7 @@
 <h3 align="center">2nd Year BSIT Student | Aspiring Web Developer</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/@count?name=count&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=9282005" />
+  <img src="[https://count.getloli.com/@count?name=count&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=9282005](https://count.getloli.com/@lecounter?name=lecounter&theme=booru-lewd&padding=2&offset=0&align=top&scale=1.7&pixelated=1&darkmode=0&num=67)" />
 </p>
 
 ---
