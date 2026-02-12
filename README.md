@@ -2,12 +2,10 @@
 <h3 align="center">2nd Year BSIT Student | Aspiring Web Developer</h3>
 
 
-![jlechido557370](https://count.getloli.com/@jlechido557370)
-
-
 <p align="center">
-      <img src="https://count.getloli.com/@jlechido557370?name=jlechido557370&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0&num=1" />
+  <img src="https://count.getloli.com/@jlechido557370" alt="jlechido557370" />
 </p>
+
 
 ---
 
