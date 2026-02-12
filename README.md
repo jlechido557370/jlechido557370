@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jan Michael R. Lechido</h1>
 <h3 align="center">2nd Year BSIT Student | Aspiring Web Developer</h3>
 
+<p align="center">
+  <img src="https://count.getloli.com/@count?name=count&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=9282005" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -12,7 +16,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💬 Discord: `(https://discord.com/users/979336550976462848)`  
+- 💬 Discord: [My Discord](https://discord.com/users/979336550976462848)
 
 ---
 
@@ -22,5 +26,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
 </p>
-
----
