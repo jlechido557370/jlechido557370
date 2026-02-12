@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/@jlechido557370" alt="jlechido557370" />
+  <img src="https://count.getloli.com/@jlechido557370?theme=booru-lewd" alt="jlechido557370" />
 </p>
 
 
