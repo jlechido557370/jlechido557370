@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/@jlechido557370?theme=booru-helltaker&padding=7&offset=0&align=top&scale=1.3&pixelated=1&darkmode=0" alt="jlechido557370" />
+  <img src="https://count.getloli.com/@jlechido557370?theme=booru-lewd&padding=7&offset=0&align=top&scale=1.3&pixelated=1&darkmode=0" alt="jlechido557370" />
 </p>
 
 
