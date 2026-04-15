@@ -18,7 +18,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💬 Discord: [My Discord](https://discord.com/users/979336550976462848)
+- 💬 Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
 ---
 
