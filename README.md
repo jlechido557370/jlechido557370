@@ -20,11 +20,6 @@
 ### 🌐 Connect with Me
 - 💬 Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
----
 
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
-</p>
+
+
