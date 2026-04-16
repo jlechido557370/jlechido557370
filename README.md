@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jan Michael R. Lechido</h1>
+<h1 align="center">Hi , I'm Jan Michael R. Lechido</h1>
 <h3 align="center">2nd Year BSIT Student | Aspiring Web Developer</h3>
 
 
@@ -9,16 +9,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Studying at **University of Mindanao**
-- 🌱 Currently learning **Web Development**
-- 💻 Interested in Programming, UI/UX, and Game Development
-- 🎯 Goal: Become a skilled Full-Stack Developer
+###  About Me
+-  Studying at **University of Mindanao**
+-  Currently learning **Web Development**
+-  Interested in Programming, UI/UX, and Game Development
+-  Goal: Become a skilled Full-Stack Developer
 
 ---
 
-### 🌐 Connect with Me
-- 💬 Discord: [My Discord](https://discord.com/users/1479382677038567439)
+###  Connect with Me
+-  Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
 
 
