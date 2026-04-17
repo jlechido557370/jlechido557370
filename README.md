@@ -21,6 +21,4 @@
 -  Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
 
----
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" alt="IVO Logo" width="100" /> </p>
