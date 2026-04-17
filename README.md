@@ -20,7 +20,6 @@
 ###  Connect with Me
 -  Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
----
 
 
 <p align="center">
@@ -36,6 +35,6 @@
     <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
     <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
     <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
+
   </span>
 </p>
