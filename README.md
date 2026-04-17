@@ -24,7 +24,5 @@
 
 
 <p align="center">
-  <strong style="font-size: 60px;">IVO.</strong>
+  <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" alt="IVO Logo" width="200" />
 </p>
-
-
