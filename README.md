@@ -25,7 +25,7 @@
 
 <p align="center">
   <span style="display: inline-flex; align-items: flex-end; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" alt="Logo" height="90" />
-    <img src="https://github.com/user-attachments/assets/b471606f-e399-478c-89fd-d8cc5eb66095" alt="IVO" height="70" />
+    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" alt="Logo" height="100" />
+    <img src="https://github.com/user-attachments/assets/b471606f-e399-478c-89fd-d8cc5eb66095" alt="IVO" height="50" />
   </span>
 </p>
