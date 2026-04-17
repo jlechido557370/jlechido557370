@@ -20,7 +20,7 @@
 ###  Connect with Me
 -  Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
-
+---
 
 <p align="center">
   <span style="display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
