@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Jan Michael R. Lechido</h1>
 <h3 align="center">2nd Year BSIT Student | Aspiring Web Developer</h3>
 
----
-
 
 <p align="center">
   <img src="https://count.getloli.com/@jlechido557370?theme=booru-lewd&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=0" alt="jlechido557370" />
