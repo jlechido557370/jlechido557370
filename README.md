@@ -20,21 +20,7 @@
 ###  Connect with Me
 -  Discord: [My Discord](https://discord.com/users/1479382677038567439)
 
+
 ---
 
-<p align="center">
-  <span style="display: inline-flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-    <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" width="80" />
-
-  </span>
-</p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/037cb937-0134-4596-b83e-343eb9d74f96" alt="IVO Logo" width="100" /> </p>
