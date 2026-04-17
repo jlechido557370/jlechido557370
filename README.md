@@ -1,4 +1,5 @@
 <h1 align="center">Hi , I'm Jan Michael R. Lechido</h1>
+---
 <h3 align="center">2nd Year BSIT Student | Aspiring Web Developer</h3>
 
 
